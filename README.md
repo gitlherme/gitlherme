@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif" alt="Macaco batendo no teclado">
+   <img src="" alt="">
 </p>
 
 <!--
