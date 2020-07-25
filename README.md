@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+
 <!--
 **gitlherme/gitlherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+
