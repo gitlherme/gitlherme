@@ -1,4 +1,7 @@
-![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif)
+
+<p align="center">
+   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif" alt="Macaco batendo no teclado">
+</p>
 
 <!--
 **gitlherme/gitlherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
