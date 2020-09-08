@@ -15,8 +15,7 @@
 
 ## Minhas redes sociais
 <p>
-<a href="https://twitter.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gitlherme" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/guihdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="30" width="30" /></a>
-<a href="https://fb.com/guih.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guih.dev" height="30" width="30" /></a>
-<a href="https://instagram.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gitlherme" height="30" width="30" /></a>
+<a href="https://twitter.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gitlherme" height="15" width="15" /></a>
+<a href="https://linkedin.com/in/guihdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="15" width="15" /></a>
+<a href="https://instagram.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gitlherme" height="15" width="15" /></a>
 </p>
