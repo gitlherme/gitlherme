@@ -5,6 +5,7 @@
 - 📚 Eu gosto de estudar sobre HTML, CSS e Javascript, principalmente
 - 🖤 Eu coordeno a comunidade @perifaCode e sou mentor na @tecnogueto
 - 📝 Eu escrevo posts sobre front-end no meu [blog](http://blog.guilhermevieira.dev)
+- 📹 Eu faço algumas lives na [Twitch](http://twitch.tv/gitlherme_)
 
 
 ## Principais tecnologias que eu uso
@@ -18,4 +19,5 @@
 <a href="https://twitter.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gitlherme" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/guihdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="20" width="20" /></a>
 <a href="https://instagram.com/gitlherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gitlherme" height="20" width="20" /></a>
+<a href="https://twitch.tv/gitlherme_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="gitlherme" height="20" width="20" /></a>
 </p>
