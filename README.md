@@ -3,7 +3,7 @@
 - ✌ Eu tenho 19 anos
 - 🔭 Eu sou desenvolvedor front-end na @justdigital
 - 📚 Eu gosto de estudar sobre HTML, CSS e Javascript, principalmente
-- 🖤 Eu coordeno a comunidade @perifaCode e sou mentor na @tecnogueto
+- 🖤 Eu coordeno a comunidade [perifaCode](https://perifacode.com) e sou mentor na [Tecnogueto](https://tecnogueto.com.br)
 - 📝 Eu escrevo posts sobre front-end no meu [blog](http://blog.guilhermevieira.dev)
 - 📹 Eu faço algumas lives na [Twitch](http://twitch.tv/gitlherme_)
 
