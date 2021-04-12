@@ -22,9 +22,10 @@
   <strong> HTML5 • CSS3 • JavaScript • React • Node • Drupal • Acquia Site Studio </strong>
 
   ### *My Github Stats*
-  <div>
-    <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api?username=gitlherme&show_icons=true&theme=tokyonight"/>
-    <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gitlherme&show_icons=true&theme=tokyonight"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
   </div>
 
   <br>
