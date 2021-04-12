@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
   <h2>
     🌠 Hi, i'm Guilherme Vieira.
   </h2>
