@@ -1,4 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
+<center>
+
   <h2>
     🌠 Hi, i'm Guilherme Vieira.
   </h2>
@@ -21,17 +22,12 @@
   <strong> HTML5 • CSS3 • JavaScript • React • Node • Drupal • Acquia Site Studio </strong>
 
   ## *My Github Stats*
-
-
   <div>
     <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api?username=gitlherme&show_icons=true&theme=tokyonight"/>
     <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
   </div>
 
 
-  --------------------------------
-  
-  <div style="width: 100%; display: flex; justify-content: center; align-items: center">
-    <img src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
-  </div>
-</div>
+  <img align="center" src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
+
+</center>
