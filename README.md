@@ -25,6 +25,7 @@
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=gitlherme&show_icons=true&theme=tokyonight"/>
     <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
   </div>
 
