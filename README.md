@@ -27,8 +27,12 @@
     <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
   </div>
 
+<br>
+<br>
+<br>
+<br>
 
-  <div style="padding-top: 100px;">
+  <div>
     <img align="center" src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
   </div>
 
