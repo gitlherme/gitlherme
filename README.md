@@ -31,5 +31,7 @@
 
   --------------------------------
   
-  <img src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
+  <div style="width: 100%; display: flex; justify-content: center; align-items: center">
+    <img src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
+  </div>
 </div>
