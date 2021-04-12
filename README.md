@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
   <h2>
     🌠 Hi, i'm Guilherme Vieira.
@@ -28,6 +28,8 @@
   </div>
 
 
-  <img align="center" src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
+  <div style="padding-top: 100px;">
+    <img align="center" src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
+  </div>
 
-</center>
+</div>
