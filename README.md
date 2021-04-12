@@ -8,7 +8,11 @@
     <img src="https://img.shields.io/twitter/follow/gitlherme">
   </a>
 
-  ---
+  <br>
+  <br>
+  <br>
+  <br>
+
   ## *About me*
   <p>
     I'm now working at <strong>@justdigital.</strong> <br>
@@ -27,10 +31,10 @@
     <img style="padding: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitlherme&layout=compact&theme=tokyonight"/>
   </div>
 
-<br>
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
+  <br>
 
   <div>
     <img align="center" src="https://media.giphy.com/media/J9lGBaHFbjZm0/source.gif">
