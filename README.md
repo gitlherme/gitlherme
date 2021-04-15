@@ -14,7 +14,7 @@
     I'm now working at <strong>@justdigital.</strong> <br>
     Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
     MBA in <strong>Fullstack Development</strong> at IGTI. <br>
-    Organizer at <strong>@perifacode</strong> and mentor at <strong>@tecnogueto</strong>.
+    Organizer at <strong>@perifacode</strong> and mentor at <strong>@tecnogueto</strong>. <br>
     Live in <strong> São Paulo, Brazil </strong>
   </p>
 
