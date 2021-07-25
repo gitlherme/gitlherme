@@ -19,7 +19,7 @@
   </p>
 
   ### *My Tech Stack*
-  <strong> HTML5 • CSS3 • JavaScript • React • Node • Drupal • Acquia Site Studio </strong>
+  <strong> HTML5 • CSS3 • JavaScript • VueJS • Nuxt.js • Node • Drupal • Acquia Site Studio </strong>
 
   ### *My Github Stats*
   <div style="display: flex; flex-direction: column;">
