@@ -11,7 +11,7 @@
 
   ### *About me*
   <p>
-    I'm now working at <strong>@CI&T.</strong> <br>
+    Software Engineer at <strong>CI&T.</strong> <br>
     Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
     MBA in <strong>Fullstack Development</strong> at IGTI. <br>
     Organizer at <strong>@perifacode</strong>. <br>
