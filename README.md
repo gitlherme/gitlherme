@@ -11,15 +11,15 @@
 
   ### *About me*
   <p>
-    I'm now working at <strong>@justdigital.</strong> <br>
+    I'm now working at <strong>@CI&T.</strong> <br>
     Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
     MBA in <strong>Fullstack Development</strong> at IGTI. <br>
-    Organizer at <strong>@perifacode</strong> and mentor at <strong>@tecnogueto</strong>. <br>
+    Organizer at <strong>@perifacode</strong>. <br>
     Live in <strong> São Paulo, Brazil </strong>
   </p>
 
   ### *My Tech Stack*
-  <strong> HTML5 • CSS3 • JavaScript • VueJS • Nuxt.js • Node • Drupal • Acquia Site Studio </strong>
+  <strong> HTML5 • CSS3 • JavaScript • React • Next.js • Node • Drupal • Acquia Site Studio </strong>
 
   ### *My Github Stats*
   <div style="display: flex; flex-direction: column;">
