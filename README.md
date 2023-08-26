@@ -2,18 +2,14 @@
 
   # 🌠 Hi, i'm Guilherme Vieira.
 
-  <a href="https://twitter.com/gitlherme">
-    <img src="https://img.shields.io/twitter/follow/gitlherme">
-  </a>
-
   <br>
   <br>
 
   ### *About me*
   <p>
-    Software Engineer at <strong>CI&T.</strong> <br>
+    Software Developer working at <strong>CI&T.</strong> <br>
     Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
-    MBA in <strong>Fullstack Development</strong> at IGTI. <br>
+    MBA in <strong>Fullstack Development</strong> at XP Educação. <br>
     Organizer at <strong>@perifacode</strong>. <br>
     Live in <strong> São Paulo, Brazil </strong>
   </p>
