@@ -10,7 +10,6 @@
     Software Developer working at <strong>CI&T.</strong> <br>
     Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
     MBA in <strong>Fullstack Development</strong> at XP Educação. <br>
-    Organizer at <strong>@perifacode</strong>. <br>
     Live in <strong> São Paulo, Brazil </strong>
   </p>
 
