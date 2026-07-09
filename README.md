@@ -14,7 +14,7 @@
   </p>
 
   ### *My Tech Stack*
-  <strong> React • Next.js • AI Engineering </strong>
+  <strong> React • Next.js • Node • AI Engineering </strong>
 
   <br>
   <br>
