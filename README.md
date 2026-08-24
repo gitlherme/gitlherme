@@ -2,19 +2,7 @@
 
   # 🌠 Hi, i'm Guilherme Vieira.
 
-  <br>
-  <br>
-
-  ### *About me*
-  <p>
-    Software Developer working at <strong>CI&T.</strong> <br>
-    Graduate in <strong>System Analysis and Development</strong> at Impacta. <br>
-    MBA in <strong>Fullstack Development</strong> at XP Educação. <br>
-    Live in <strong> São Paulo, Brazil </strong>
-  </p>
-
-  ### *My Tech Stack*
-  <strong> React • Next.js • Node • AI Engineering </strong>
+  25yo, brazillian senior software engineer.
 
   <br>
   <br>
